@@ -27,4 +27,31 @@
     <string name="update_recovery_setting">Uuenda AstralOS Recoveryt koos OSiga</string>
     <string name="services_help_improve_cm">Aita parendada <xliff:g id="name" example="AstralOS">%s</xliff:g>i</string>
     <string name="services_os_nav_keys_label"><b>Kasuta ekraanil olevaid navigeerimisklahve</b> riistvaraliste nuppude asemel.</string>
+    <string name="accessibility_settings">Juurdepääsu sätted</string>
+    <string name="dark">Tume (soovitatav)</string>
+    <string name="gesture_navigation">Žestipõhine navigeerimine</string>
+    <string name="hide_gesture_hint">Peida žestipõhise navigeerimise vihje</string>
+    <string name="navbar_navigation">3-nupuline navigeerimine</string>
+    <string name="navigation_summary">Vali eelistatud navigeerimisviis</string>
+    <string name="setup_navigation">Navigeerimine</string>
+    <string name="setup_theme">Teema</string>
+    <string name="theme_summary">Tume teema kasutab musta tausta, et mõnel ekraanil akut kauem säästa</string>
+    <string name="intro_restore_subtitle">Kui sul on Seedvaulti varukoopia süsteemist %s või mõnest teisest operatsioonisüsteemist, saad selle siin taastada.</string>
+    <string name="location_agps_access_summary">Asukoha sisselülitamisel <b>lae satelliidiabandmed internetist</b>, mis võib GPS-i käivitamist märkimisväärselt parandada.</string>
+    <string name="setup_managed_profile_welcome_message">Seadista oma tööprofiil</string>
+    <string name="setup_welcome_message">Tere tulemast: %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Privaatsuspoliitikat saad lugeda teisel seadmel, külastades %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="done">Valmis</string>
+    <string name="light">Hele</string>
+    <string name="services_metrics_label">%1$s saates automaatselt diagnostika- ja kasutusandmeid aadressile %2$s. Seda teavet ei saa kasutada sinu tuvastamiseks ja see aitab meeskondi, kes töötavad asjade nagu aku kestvus, rakenduste jõudluse ja uute %3$s funktsioonide kallal.</string>
+    <string name="services_pp_explanation">Need teenused töötavad sinu jaoks seadme võimaluste laiendamiseks. Andmeid kasutatakse vastavalt %1$s privaatsuspoliitikale.</string>
+    <string name="setup_locale">Keel</string>
+    <string name="setup_services">AstralOS funktsioonid</string>
+    <string name="update_recovery_description">Uuendab AstralOS Recovery\'d esimesel käivitamisel pärast iga uuendust.</string>
+    <string name="update_recovery_warning">Recovery uuendatakse kohe, kui seadistuse lõpetad. Kui soovid selle puutumata jätta, keela see funktsioon.</string>
+    <string name="sim_locale_changed">%1$s SIM tuvastati</string>
 </resources>

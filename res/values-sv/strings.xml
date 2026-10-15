@@ -36,4 +36,22 @@
     <string name="setup_theme">Tema</string>
     <string name="dark">Mörkt</string>
     <string name="light">Ljust</string>
+    <string name="accessibility_settings">Tillgänglighetsinställningar</string>
+    <string name="intro_restore_button">Återställ från säkerhetskopia</string>
+    <string name="intro_restore_subtitle">Om du har en Seedvault-säkerhetskopia från %s eller ett annat operativsystem kan du återställa den här.</string>
+    <string name="services_find_privacy_policy">Du kan läsa sekretesspolicyn på en annan enhet genom att besöka %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="services_help_improve_cm">Hjälp till att förbättra %s</string>
+    <string name="services_pp_explanation">Dessa tjänster arbetar för att utöka din enhets funktioner. Data används i enlighet med %1$s sekretesspolicy.</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_metrics_label">%1$s genom att automatiskt skicka diagnostik- och användningsdata till %2$s. Denna information kan inte användas för att identifiera dig och hjälper team som arbetar med saker som batteritid, appprestanda och nya %3$s-funktioner.</string>
+    <string name="setup_managed_profile_welcome_message">Konfigurera din arbetsprofil</string>
+    <string name="setup_welcome_message">Välkommen till %1$s</string>
+    <string name="theme_summary">Mörkt tema använder en svart bakgrund för att hjälpa till att hålla batteriet längre på vissa skärmar</string>
+    <string name="update_recovery_description">Uppdaterar AstralOS Recovery vid första uppstarten efter varje uppdatering.</string>
+    <string name="update_recovery_setting">Uppdatera AstralOS Recovery tillsammans med operativsystemet</string>
+    <string name="update_recovery_title">Uppdatera AstralOS Recovery</string>
+    <string name="update_recovery_warning">Recovery uppdateras så snart du slutför konfigurationen. Om du vill behålla den orörd, inaktivera den här funktionen.</string>
 </resources>

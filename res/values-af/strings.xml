@@ -26,4 +26,32 @@
     <string name="location_access_summary"><b>Laat programme toe wat jou toestemming gevra het</b> om jou ligging inligting te gebruik. Dit kan jou huidige ligging en plekke asook liggings en plekke uit die verlede insluit.</string>
     <string name="setup_services">AstralOS kenmerke</string>
     <string name="services_os_nav_keys_label"><b>Gebruik skerm navigasie sleutels</b> in plaas van hardeware sleutels.</string>
+    <string name="accessibility_settings">Toeganklikheidinstellings</string>
+    <string name="dark">Donker (aanbeveel)</string>
+    <string name="light">Lig</string>
+    <string name="gesture_navigation">Gebarennavigasie</string>
+    <string name="hide_gesture_hint">Versteek gebarennavigasie-wenk</string>
+    <string name="navbar_navigation">3-knoppennavigasie</string>
+    <string name="navigation_summary">Kies verkorte navigasiemetode</string>
+    <string name="setup_navigation">Navigasie</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">Donker gebruik \'n swart agtergrond om battery langer te bespaar op sommige skerms</string>
+    <string name="intro_restore_title">Herstel apps en data</string>
+    <string name="intro_restore_subtitle">As jy \'n Seedvault-rugsteun van %s of \'n ander bedryfstelsel het, kan jy dit hier herstel.</string>
+    <string name="intro_restore_button">Herstel vanaf rugsteun</string>
+    <string name="location_agps_access_summary">Wanneer ligging aan is, <b>laai satellietdata van die internet af</b>, wat die GPS-startprestansie aansienlik kan verbeter.</string>
+    <string name="setup_managed_profile_welcome_message">Stel jou werkprofiel op</string>
+    <string name="setup_welcome_message">Welkom by %1$s</string>
+    <string name="update_recovery_title">Dateer AstralOS Recovery op</string>
+    <string name="update_recovery_description">Werk AstralOS Recovery by by die eerste begin ná elke opdatering.</string>
+    <string name="update_recovery_setting">Dateer AstralOS Recovery saam met die bedryfstelsel op</string>
+    <string name="update_recovery_warning">Recovery sal opgedateer sodra jy die opstelling voltooi. As jy dit onaangeraak wil hou, deaktiveer hierdie funksie.</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_pp_explanation">Hierdie dienste werk vir jou om die vermoëns van jou toestel uit te brei. Data sal gebruik word in ooreenstemming met %1$s se privaatheidsbeleid.</string>
+    <string name="services_find_privacy_policy">Jy kan die privaatheidsbeleid op \'n ander toestel lees deur %1$s te besoek</string>
+    <string name="services_help_improve_cm">Help verbeter %s</string>
+    <string name="services_metrics_label">%1$s deur outomaties diagnostiese en gebruikdata na %2$s te stuur. Hierdie inligting kan nie gebruik word om jou te identifiseer nie en help spanne wat werk aan dinge soos batterylewe, to prestasie en nuwe %3$s-funksies.</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
 </resources>

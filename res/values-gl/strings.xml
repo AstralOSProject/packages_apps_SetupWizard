@@ -27,14 +27,31 @@
     <string name="intro_restore_button">Restaurar dende a copia de seguranza</string>
     <string name="setup_location">Servizos de localización</string>
     <string name="location_access_summary"><b>Permite que as aplicacións se teñen o teu permiso</b> utilicen a información sobre a túa localización, o que pode incluír á presente e ás pasadas.</string>
-    <string name="update_recovery_title">Actualizar Recuperador de Lineage</string>
-    <string name="update_recovery_description">Actualiza o Recuperador do Lineage no primeiro arranque despois de cada actualización.</string>
+    <string name="update_recovery_title">Actualizar Recuperador de AstralOS</string>
+    <string name="update_recovery_description">Actualiza o Recuperador do AstralOS no primeiro arranque despois de cada actualización.</string>
     <string name="update_recovery_warning">O Recuperador actualizarase axiña que remates a configuración. Se desexas mantelo intacto, desactiva esta función.</string>
-    <string name="update_recovery_setting">Actualizar o Recuperador de Lineage xunto co sistema operativo</string>
+    <string name="update_recovery_setting">Actualizar o Recuperador de AstralOS xunto co sistema operativo</string>
     <string name="setup_services">Actualizacións de AstralOS</string>
     <string name="services_pp_explanation">Estes servizos serven para mellorar as capacidades do seu dispositivo. Os datos utilizaranse de acordo coa <xliff:g id="name" example="Politica de privacidade">%1$s</xliff:g> de AstralOS</string>
     <string name="services_find_privacy_policy">Podes ler a política de privacidade noutro dispositivo visitando <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Axuda a mellorar <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_metrics_label"><xliff:g id="name" example="Axuda a mellorar AstralOS">%1$s</xliff:g> enviando automaticamente diagnóstico e uso de datos a <xliff:g id="name" example="AstralOS">%2$s</xliff:g>. Esta información non se pode utilizar para identificalo a vostede e acaba nas mans dos equipos que traballan en cousas como a duración da batería, rendemento das aplicacións e novas características de <xliff:g id="name" example="AstralOS">%3$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Usar as teclas de navegación</b> en vez das do hardware.</string>
+    <string name="dark">Escuro (recomendado)</string>
+    <string name="gesture_navigation">Navegación por xestos</string>
+    <string name="hide_gesture_hint">Agochar a suxestión de navegación por xestos</string>
+    <string name="navbar_navigation">Navegación de 3 botóns</string>
+    <string name="navigation_summary">Escolla o método de navegación preferido</string>
+    <string name="setup_navigation">Navegación</string>
+    <string name="intro_restore_subtitle">Se ten unha copia de seguridade de Seedvault de %s ou doutro sistema operativo, pode restabelecela aquí.</string>
+    <string name="location_agps_access_summary">Cando a localización está activada, <b>descargue datos de asistencia por satélite desde internet</b>, o que pode mellorar moito o rendemento do arranque do GPS.</string>
+    <string name="light">Claro</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="setup_managed_profile_welcome_message">Configura o teu perfil de traballo</string>
+    <string name="setup_theme">Tema</string>
+    <string name="setup_welcome_message">Benvido a %1$s</string>
+    <string name="theme_summary">O tema escuro usa un fondo negro para axudar a conservar a batería por máis tempo nalgúns pantalla</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
 </resources>

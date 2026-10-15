@@ -27,4 +27,31 @@
     <string name="setup_services">Funksjes fan AstralOS</string>
     <string name="services_help_improve_cm">Help mei mei it ferbetterjen fan <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>On-screen navigaasjeknoppen</b> brûke yn stee fan de hardwareknoppen.</string>
+    <string name="accessibility_settings">Toeganklikheidensettings</string>
+    <string name="dark">Donker (oanrecommearreerd)</string>
+    <string name="gesture_navigation">Gebaarnavigaasje</string>
+    <string name="hide_gesture_hint">Gebaarnavigaasjewynk ferstopje</string>
+    <string name="navbar_navigation">3-knoppennavigaasje</string>
+    <string name="navigation_summary">Kies foretrûzen navigaasjemetoade</string>
+    <string name="setup_navigation">Navigaasje</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">Donker brûkt in swart eftergrûn om de batterij langer te sparen op sommige skerms</string>
+    <string name="intro_restore_title">Apps en gegevens werstelle</string>
+    <string name="intro_restore_subtitle">As jo in Seedvault-rugkopie fan %s of in oar bestjoerssysteem hawwe, kune jo dit hjir werstelle.</string>
+    <string name="intro_restore_button">Werstelle fan rugkopie</string>
+    <string name="location_agps_access_summary">As de locatie oan is, <b>download satellietassistentiegegevens fan it ynternet</b>, wat de GPS-startprestaasje sterk kin ferbetterje.</string>
+    <string name="setup_managed_profile_welcome_message">Stel dyn wurkprofyl yn</string>
+    <string name="setup_welcome_message">Wolkom by %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Jo kinne it privacybeleid op in oar apparaat lêze troch %1$s te besykjen</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Licht</string>
+    <string name="services_metrics_label">%1$s dy automatysk diagnostyske en brûksgegevens nei %2$s stjoert. Dy gegevens kinne net brûkt wurde om dy te identifiserjen en sykje teams te stypen dy wurkje oan dingen lykens batteryduorsicht, appprestaasje en nije %3$s-funksjes.</string>
+    <string name="services_pp_explanation">Dyn tsjinsten wurkje foar dy om de mooglikheden fan dyn apparaat te fergroten. Gegevens wurde brûkt oerienkomstich mei it privacybeleid fan %1$s.</string>
+    <string name="update_recovery_title">Werk AstralOS Recovery by</string>
+    <string name="update_recovery_description">Werket AstralOS Recovery by by de earste start nei elke byferruning.</string>
+    <string name="update_recovery_setting">Werk AstralOS Recovery mei it bestjoerssysteem by</string>
+    <string name="update_recovery_warning">Recovery wurdt bywurke sa gau as jo de ynstellin oanfolle. As jo it yn intacte steat hearre te hâlden, slút dizze funksje út.</string>
 </resources>

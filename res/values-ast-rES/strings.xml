@@ -29,8 +29,8 @@
     <string name="setup_location">Servicios de llocalización</string>
     <string name="location_access_summary"><b>Permitir que les aplicaciones que pidieren el to permisu</b> usen la información de la llocalización. Esta opción pue incluyir la llocalización actual y les anteriores.</string>
     <string name="location_agps_access_summary">Al activar la llocalización, <b>baxa los datos d\'asistencia satelitales d\'internet</b> que puen ameyorar muncho\'l rindimientu inicial del GPS</string>
-    <string name="update_recovery_title">Anovar el recovery de Lineage</string>
-    <string name="update_recovery_description">Anueva\'l recovery de Lineage nel primer arrinque de cada anovamientu.</string>
+    <string name="update_recovery_title">Anovar el recovery de AstralOS</string>
+    <string name="update_recovery_description">Anueva\'l recovery de AstralOS nel primer arrinque de cada anovamientu.</string>
     <string name="update_recovery_warning">El recovery anuévase namás que fine la configuración. Si nun lu quies tocar, desactiva esta función.</string>
     <string name="update_recovery_setting">Anovar el recovery xunto con AstralOS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
@@ -49,4 +49,7 @@
     <string name="theme_summary">L\'estilu «Escuridá» usa un fondu en prieto p\'ayudar a que la batería de los preseos con pantalles OLED dure más</string>
     <string name="dark">Escuridá</string>
     <string name="light">Claridá</string>
+    <string name="intro_restore_button">Restaurar dende una copia de seguridá</string>
+    <string name="services_os_nav_keys_label"><b>Use les tecles de navegación en pantalla</b> en cuenta de les tecles de hardware.</string>
+    <string name="setup_managed_profile_welcome_message">Configura\'l to perfil de trabayu</string>
 </resources>

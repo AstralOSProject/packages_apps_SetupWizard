@@ -33,4 +33,25 @@
     <string name="setup_services">Značajke AstralOS-a</string>
     <string name="services_help_improve_cm">Pomozite poboljšati <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Koristite navigacijske tipke na zaslonu</b>umjesto hardverskih tipki.</string>
+    <string name="accessibility_settings">Postavke pristupačnosti</string>
+    <string name="dark">Tamna (preporučeno)</string>
+    <string name="gesture_navigation">Navigacija gestama</string>
+    <string name="hide_gesture_hint">Sakrij trag navigacije gestama</string>
+    <string name="navbar_navigation">Navigacija s 3 gumba</string>
+    <string name="navigation_summary">Odaberite željenu metodu navigacije</string>
+    <string name="setup_navigation">Navigacija</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">Tamna tema koristi crnu pozadinu kako bi na nekim zaslonima duže zadržala bateriju</string>
+    <string name="intro_restore_subtitle">Ako imate Sigurnosnu kopiju iz %s ili drugog operativnog sustava, ovdje je možete vratiti.</string>
+    <string name="location_agps_access_summary">Kada je lokacija uključena, <b>preuzmite podatke satelitske pomoći s interneta</b>, što može znatno poboljšati performanse pokretanja GPS-a.</string>
+    <string name="setup_managed_profile_welcome_message">Postavite svoj radni profil</string>
+    <string name="setup_welcome_message">Dobrodošli: %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Pravila privatnosti možete pročitati na drugom uređaju posjetom %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Svijetla</string>
+    <string name="services_metrics_label">%1$s automatskim slanjem dijagnostičkih i podataka o korištenju na %2$s. Ove informacije se ne mogu koristiti za vašu identifikaciju i pomažu timovima koji rade na stvarima kao što su vijek baterije, performanse aplikacija i nove %3$s funkcije.</string>
+    <string name="services_pp_explanation">Ove usluge rade za vas da prošire mogućnosti vašeg uređaja. Podaci će se koristiti u skladu s %1$s pravilima privatnosti.</string>
 </resources>

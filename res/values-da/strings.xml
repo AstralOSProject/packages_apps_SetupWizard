@@ -29,7 +29,7 @@
     <string name="setup_location">Lokalitetstjenester</string>
     <string name="location_access_summary"><b>Tillad apps, der har bedt om din tilladelse</b> at bruge din lokalitetsinformation. Dette kan inkludere din aktuelle lokalitet og tidligere lokaliteter.</string>
     <string name="location_agps_access_summary">Når lokation er tændt, <b>download satellit hjælpedata fra internettet</b>, som kan hjælpe meget med GPS opstartsfunktion</string>
-    <string name="update_recovery_title">Opdater Lineage Genddanelse</string>
+    <string name="update_recovery_title">Opdater AstralOS Genddanelse</string>
     <string name="update_recovery_description">Opdateringer AstralOS Recovery ved første opstart efter hver opdatering.</string>
     <string name="update_recovery_warning">Gendannelse vil blive opdateret, så snart du er færdig med opsætningen. Hvis du ønsker at holde det intakt, skal du deaktivere denne funktion.</string>
     <string name="update_recovery_setting">Opdater AstralOS Recovery sammen med OS</string>
@@ -46,4 +46,10 @@
     <string name="gesture_navigation">Navigering med bevægelser</string>
     <string name="navbar_navigation">Navigering med tre knapper</string>
     <string name="hide_gesture_hint">Skjul bevægelses navigerings hint</string>
+    <string name="dark">Mørk (anbefalet)</string>
+    <string name="light">Lys</string>
+    <string name="intro_restore_subtitle">Hvis du har en Seedvault-sikkerhedskopi fra %s eller et andet operativsystem, kan du gendanne den her.</string>
+    <string name="setup_managed_profile_welcome_message">Konfigurer din arbejdsprofil</string>
+    <string name="theme_summary">Mørkt tema bruger en sort baggrund for at hjælpe med at holde batteriet længere i live på nogle skærme</string>
+    <string name="setup_theme">Tema</string>
 </resources>

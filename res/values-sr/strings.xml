@@ -27,4 +27,31 @@
     <string name="setup_services">Функције AstralOS-а</string>
     <string name="services_help_improve_cm">Помозите нам да побољшамо <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Користите навигациону дугмад на екрану</b> уместо хардверску.</string>
+    <string name="accessibility_settings">Подешавања приступачности</string>
+    <string name="dark">Тамна (препоручено)</string>
+    <string name="gesture_navigation">Навигација покретима</string>
+    <string name="hide_gesture_hint">Сакриј сигнализацију навигације покретима</string>
+    <string name="navbar_navigation">Навигација са 3 дугмета</string>
+    <string name="navigation_summary">Изаберите жељени начин навигације</string>
+    <string name="setup_navigation">Навигација</string>
+    <string name="setup_theme">Тема</string>
+    <string name="theme_summary">Тамна тема користи црну позадину како би на неким екранима дуж задржала батерију</string>
+    <string name="intro_restore_title">Врати апликације и податке</string>
+    <string name="intro_restore_subtitle">Ако имате сигурносну копију из %s или другог оперативног система, овде можете да је вратите.</string>
+    <string name="intro_restore_button">Врати из сигурносне копије</string>
+    <string name="location_agps_access_summary">Када је локација укључена, <b>преузмите податке сателитске помоћи са интернета</b>, што може знатно побољшати перформансе покретања ГПС-а.</string>
+    <string name="setup_managed_profile_welcome_message">Подесите свој радни профил</string>
+    <string name="setup_welcome_message">Добро дошли: %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Правила приватности можете прочитати на другом уређају посећујући %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Светла</string>
+    <string name="services_metrics_label">%1$s автоматским слањем дијагностичких и података о коришћењу на %2$s. Ове информације се не могу користити за вашу идентификацију и помажу тимовима који раде на стварима као што су трајање батерије, перформансе апликација и нове %3$s функције.</string>
+    <string name="services_pp_explanation">Ове услуге раде за вас да прошире могућности вашег уређаја. Подаци ће се користити у складу са %1$s правилом приватности.</string>
+    <string name="update_recovery_description">Ажурира AstralOS Recovery при првом покретању након сваког ажурирања.</string>
+    <string name="update_recovery_setting">Ажурирај AstralOS Recovery заједно са оперативним системом</string>
+    <string name="update_recovery_title">Ажурирај AstralOS Recovery</string>
+    <string name="update_recovery_warning">Recovery ће бити ажуриран чим завршите подешавање. Ако желите да га оставите нетакнутим, онемогућите ову функцију.</string>
 </resources>

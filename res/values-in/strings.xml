@@ -49,4 +49,7 @@
     <string name="setup_theme">Tema</string>
     <string name="dark">Gelap</string>
     <string name="light">Terang</string>
+    <string name="intro_restore_subtitle">Jika Anda memiliki cadangan Seedvault dari %s atau sistem operasi lain, Anda dapat memulihkannya di sini.</string>
+    <string name="location_agps_access_summary">Saat lokasi menyala, <b>unduh data bantuan satelit dari internet</b>, yang dapat meningkatkan kinerja startup GPS secara signifikan.</string>
+    <string name="theme_summary">Tema gelap menggunakan latar belakang hitam untuk membantu menghemat baterai lebih lama di beberapa layar</string>
 </resources>

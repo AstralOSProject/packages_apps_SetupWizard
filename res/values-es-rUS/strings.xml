@@ -28,4 +28,30 @@
     <string name="setup_services">Características de AstralOS</string>
     <string name="services_help_improve_cm">Ayuda a mejorar <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Usar las teclas de navegación en pantalla</b> en vez de las teclas físicas.</string>
+    <string name="accessibility_settings">Configuración de accesibilidad</string>
+    <string name="dark">Oscuro (recomendado)</string>
+    <string name="gesture_navigation">Navegación con gestos</string>
+    <string name="hide_gesture_hint">Ocultar sugerencia de navegación con gestos</string>
+    <string name="navbar_navigation">Navegación de 3 botones</string>
+    <string name="navigation_summary">Elige el método de navegación preferido</string>
+    <string name="setup_navigation">Navegación</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">El tema oscuro usa un fondo negro para ayudar a conservar la batería por más tiempo en algunas pantallas</string>
+    <string name="intro_restore_title">Restaurar apps y datos</string>
+    <string name="intro_restore_subtitle">Si tienes una copia de seguridad de Seedvault de %s u otro sistema operativo, puedes restaurarla aquí.</string>
+    <string name="location_agps_access_summary">Cuando la ubicación esté activada, <b>descarga datos de asistencia por satélite desde internet</b>, lo que puede mejorar enormemente el rendimiento de inicio del GPS.</string>
+    <string name="setup_managed_profile_welcome_message">Configura tu perfil de trabajo</string>
+    <string name="setup_welcome_message">Te damos la bienvenida a %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Puedes leer la política de privacidad en otro dispositivo visitando %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Claro</string>
+    <string name="services_metrics_label">%1$s al enviar automáticamente datos de diagnóstico y uso a %2$s. Esta información no se puede usar para identificarte y ayuda a los equipos que trabajan en cosas como la duración de la batería, el rendimiento de las apps y las nuevas funciones de %3$s.</string>
+    <string name="services_pp_explanation">Estos servicios trabajan para ti para ampliar las capacidades de tu dispositivo. Los datos se usarán de acuerdo con la política de privacidad de %1$s.</string>
+    <string name="update_recovery_title">Actualizar AstralOS Recovery</string>
+    <string name="update_recovery_description">Actualiza AstralOS Recovery en el primer arranque después de cada actualización.</string>
+    <string name="update_recovery_setting">Actualizar AstralOS Recovery junto con el sistema operativo</string>
+    <string name="update_recovery_warning">Recovery se actualizará tan pronto como termines la configuración. Si deseas conservarlo intacto, desactiva esta función.</string>
 </resources>

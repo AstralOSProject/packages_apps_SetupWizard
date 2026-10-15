@@ -29,4 +29,29 @@
     <string name="setup_services">คุณสมบัติ AstralOS</string>
     <string name="services_help_improve_cm">ช่วยปรับปรุง <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>ใช้แถบนำทาง</b> แทนการใช้ปุ่มบนอุปกรณ์</string>
+    <string name="dark">มืด (แนะนำ)</string>
+    <string name="gesture_navigation">การนำทางด้วยท่าทาง</string>
+    <string name="hide_gesture_hint">ซ่อนคำแนะนำการนำทางด้วยท่าทาง</string>
+    <string name="navbar_navigation">การนำทางแบบ 3 ปุ่ม</string>
+    <string name="navigation_summary">เลือกวิธีการนำทางที่ต้องการ</string>
+    <string name="setup_navigation">การนำทาง</string>
+    <string name="intro_restore_title">กู้คืนแอปและข้อมูล</string>
+    <string name="intro_restore_subtitle">หากคุณมีข้อมูลสำรอง Seedvault จาก %s หรือระบบปฏิบัติการอื่น คุณสามารถกู้คืนได้ที่นี่</string>
+    <string name="intro_restore_button">กู้คืนจากข้อมูลสำรอง</string>
+    <string name="location_agps_access_summary">เมื่อเปิดตำแหน่งที่ตั้งแล้ว <b>ดาวน์โหลดข้อมูลช่วยเหลือดาวเทียมจากอินเทอร์เน็ต</b> ซึ่งสามารถปรับปรุงประสิทธิภาพการเริ่มต้น GPS ได้อย่างมาก</string>
+    <string name="setup_managed_profile_welcome_message">ตั้งค่าโปรไฟล์งานของคุณ</string>
+    <string name="setup_welcome_message">ยินดีต้อนรับสู่ %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">คุณสามารถอ่านนโยบายความเป็นส่วนตัวบนอุปกรณ์อื่นได้โดยเข้าไปที่ %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">สว่าง</string>
+    <string name="services_metrics_label">%1$s โดยการส่งข้อมูลการวินิจฉัยและการใช้งานไปที่ %2$s โดยอัตโนมัติ ข้อมูลนี้ไม่สามารถใช้เพื่อระบุตัวคุณได้ และช่วยทีมงานที่ทำงานในเรื่องต่าง ๆ เช่น อายุแบตเตอรี่ ประสิทธิภาพแอป และฟีเจอร์ %3$s ใหม่</string>
+    <string name="services_pp_explanation">บริการเหล่านี้ทำงานเพื่อคุณเพื่อขยายความสามารถของอุปกรณ์ของคุณ ข้อมูลจะถูกใช้ตามนโยบายความเป็นส่วนตัวของ %1$s</string>
+    <string name="setup_theme">ธีม</string>
+    <string name="theme_summary">ธีมมืดใช้พื้นหลังสีดำเพื่อช่วยให้แบตเตอรี่อยู่ได้นานขึ้นในบางหน้าจอ</string>
+    <string name="update_recovery_description">อัปเดต AstralOS Recovery ในการเริ่มต้นครั้งแรกหลังจากการอัปเดตทุกครั้ง</string>
+    <string name="update_recovery_setting">อัปเดต AstralOS Recovery พร้อมกับระบบปฏิบัติการ</string>
+    <string name="update_recovery_warning">Recovery จะได้รับการอัปเดตทันทีที่คุณตั้งค่าเสร็จ หากต้องการคงไว้ให้ปิดใช้งานฟีเจอร์นี้</string>
 </resources>

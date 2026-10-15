@@ -22,4 +22,36 @@
     <string name="setup_location">Atrašanās vietas pakalpojumi</string>
     <string name="location_access_summary"><b>Atļaut lietotnēm kas ir lūgušas atļauju</b> izmantot Jūsu atrašanās vietu. Tas var ietvert Jūsu pašreizējo atrašanās vietu vai kādu no iepriekšējām.</string>
     <string name="services_os_nav_keys_label"><b>Izmantot ekrānā redzamos navigācijas taustiņus</b> fizisko taustiņu vietā.</string>
+    <string name="accessibility_settings">Pieejamības iestatījumi</string>
+    <string name="dark">Tumšs (ieteicams)</string>
+    <string name="gesture_navigation">Žestu navigācija</string>
+    <string name="hide_gesture_hint">Paslēpt žestu navigācijas norādi</string>
+    <string name="navbar_navigation">3 pogu navigācija</string>
+    <string name="navigation_summary">Izvēlieties vēlamo navigācijas metodi</string>
+    <string name="setup_navigation">Navigācija</string>
+    <string name="setup_theme">Tēma</string>
+    <string name="theme_summary">Tumša tēma izmanto melnu fonu, lai dažos ekrānos ilgāk saglabātu akumulatora darbības laiku</string>
+    <string name="intro_restore_title">Atjaunot lietotnes un datus</string>
+    <string name="intro_restore_subtitle">Ja tev ir Seedvault dublējums no %s vai citās operētājsistēmas, vari to atjaunot šeit.</string>
+    <string name="intro_restore_button">Atjaunot no dublējuma</string>
+    <string name="location_agps_access_summary">Kad atrašanās vieta ir ieslēgta, <b>lejupielādē satelītu palīdzības datus no interneta</b>, kas var ievērojami uzlabot GPS palaišanas veiktspēju.</string>
+    <string name="setup_managed_profile_welcome_message">Iestati darba profilu</string>
+    <string name="setup_welcome_message">Laipni lūdzam: %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Privātuma politiku vari lasīt citā ierīcē, apmeklējot %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="done">Gatavs</string>
+    <string name="light">Gaiša</string>
+    <string name="services_help_improve_cm">Palīdzi uzlabot: %s</string>
+    <string name="services_metrics_label">%1$s automātiski nosūtot diagnostikas un lietošanas datus uz %2$s. Šo informāciju nevar izmantot, lai identificētu tevi, un tā palīdz komandām, kas strādā pie tādām lietām kā akumulatora darbības laiks, lietotņu veiktspēja un jaunas %3$s funkcijas.</string>
+    <string name="services_pp_explanation">Šie pakalpojumi strādā tavā labā, lai paplašinātu tavas ierīces iespējas. Dati tiks izmantoti saskaņā ar %1$s privātuma politiku.</string>
+    <string name="setup_locale">Valoda</string>
+    <string name="setup_services">AstralOS iespējas</string>
+    <string name="sim_locale_changed">Atpazīta %1$s SIM karte</string>
+    <string name="update_recovery_description">Atjaunina AstralOS Recovery pirmajā palaižot pēc katra atjauninājuma.</string>
+    <string name="update_recovery_setting">Atjaunināt AstralOS Recovery kopā ar operētājsistēmu</string>
+    <string name="update_recovery_title">Atjaunināt AstralOS Recovery</string>
+    <string name="update_recovery_warning">Recovery tiks atjaunināta, tiklīdz pabeidzsi iestatīšanu. Ja vēlies to paturēt neskartu, atslēdz šo funkciju.</string>
 </resources>

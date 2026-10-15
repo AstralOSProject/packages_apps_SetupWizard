@@ -23,4 +23,35 @@
     <string name="setup_location">ଅବସ୍ଥାନ ସେବାଗୁଡିକ</string>
     <string name="location_access_summary">ଆପଣଙ୍କ ଅବ‍ସ୍ଥାନ ସୂଚନା ବ୍ୟବହାର କରିବା ପାଇଁ<b>ଯେଉଁ ଆପ୍ଲିକେସନ୍‍ ଆପଣଙ୍କ ଠାରୁ ଅନୁମତି ମା୍ଗିଛନ୍ତି। ତାଙ୍କୁ ଅନୁମତି ଦିଅନ୍ତୁ।</b> ଏହା ଆପଣଙ୍କ ସମ୍ପ୍ରତୋ ଅବ‍ସ୍ଥାନ ଓ ପୂର୍ବ ଅବ‍ସ୍ଥାନ ଅନ୍ତଭୁକ୍ତ କ୍ରିପାରେ।</string>
     <string name="services_os_nav_keys_label">ହା୍ର୍ଡ୍‍ଓୟାର୍‍ କୀ ବଦଳରେ<b>ଅନ୍‍ସ୍କ୍ରିନ୍‍ ନେଭିଗେସନ୍‍ କୀ ବ୍ୟବହାର କରନ୍ତୁ</b> ।</string>
+    <string name="accessibility_settings">ପ୍ରବେଶଯୋଗ୍ୟତା ସେଟିଂସ</string>
+    <string name="dark">ଗାଢ଼ (ସୁପାରିସ କରାଯାଇଛି)</string>
+    <string name="done">ସମ୍ପୂର୍ଣ୍ଣ</string>
+    <string name="gesture_navigation">ଜେସ୍ଚର ନେଭିଗେସନ</string>
+    <string name="hide_gesture_hint">ଜେସ୍ଚର ନେଭିଗେସନ ସଙ୍କେତ ଲୁଚାନ୍ତୁ</string>
+    <string name="navbar_navigation">୩-ବଟନ୍ ନେଭିଗେସନ</string>
+    <string name="navigation_summary">ପସନ୍ଦର ନେଭିଗେସନ ପଦ୍ଧତି ବାଛନ୍ତୁ</string>
+    <string name="setup_navigation">ନେଭିଗେସନ</string>
+    <string name="setup_theme">ଥିମ୍</string>
+    <string name="theme_summary">ଗାଢ଼ ଥିମ୍ କିଛି ସ୍କ୍ରିନରେ ବ୍ୟାଟେରୀ ଅଧିକ ସମୟ ରହିବାରେ ସାହାଯ୍ୟ କରିବା ପାଇଁ କଳା ପୃଷ୍ଠଭୂମି ବ୍ୟବହାର କରେ</string>
+    <string name="intro_restore_title">ଆପ୍ ଏବଂ ତଥ୍ୟ ପୁନରୁଦ୍ଧାର କରନ୍ତୁ</string>
+    <string name="intro_restore_subtitle">ଆପଣଙ୍କର %s ଠାରୁ କିମ୍ବା ଅନ୍ୟ ଯେକୌଣସି operating system ଠାରୁ Seedvault ବ୍ୟାକଅପ୍ ଥିଲେ, ଆପଣ ଏଠାରେ ଏହାକୁ ପୁନରୁଦ୍ଧାର କରିପାରିବେ।</string>
+    <string name="intro_restore_button">ବ୍ୟାକଅପ୍ ଠାରୁ ପୁନରୁଦ୍ଧାର କରନ୍ତୁ</string>
+    <string name="location_agps_access_summary">ସ୍ଥାନ ଚାଲୁ ଥିବା ସମୟରେ, <b>ଇଣ୍ଟରନେଟ୍ ଠାରୁ ଉପଗ୍ରହ ସହାୟକ ତଥ୍ୟ ଡାଉନଲୋଡ୍ କରନ୍ତୁ</b>, ଯାହା GPS ଆରମ୍ଭ କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ଉଲ୍ଲେଖନୀୟ ଭାବରେ ଉନ୍ନତ କରିପାରେ।</string>
+    <string name="setup_managed_profile_welcome_message">ଆପଣଙ୍କ କାର୍ଯ୍ୟ ପ୍ରୋଫାଇଲ୍ ସେଟ୍ କରନ୍ତୁ</string>
+    <string name="setup_welcome_message">%1$s କୁ ସ୍ୱାଗତ</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">%1$s ଦେଖି ଆପଣ ଅନ୍ୟ ଏକ ଡିଭାଇସରେ ଗୋପନୀୟତା ନୀତି ପଢ଼ିପାରିବେ</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">ହାଲୁକା</string>
+    <string name="services_help_improve_cm">ଉନ୍ନତ କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ: %s</string>
+    <string name="services_metrics_label">%1$s ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଡାଏଗ୍ନୋଷ୍ଟିକ୍ ଏବଂ ବ୍ୟବହାର ତଥ୍ୟ %2$s କୁ ପଠାଇ। ଏହି ସୂଚନା ଆପଣଙ୍କୁ ଚିହ୍ନଟ କରିବା ପାଇଁ ବ୍ୟବହାର କରାଯାଇ ପାରିବ ନାହିଁ ଏବଂ ଏହା ବ୍ୟାଟେରୀ ଆୟୁ, ଆପ୍ କାର୍ଯ୍ୟଦକ୍ଷତା ଏବଂ ନୂତନ %3$s ବୈଶିଷ୍ଟ୍ୟ ଭଳି ବିଷୟ ଉପରେ କାମ କରୁଥିବା ଦଳଗୁଡ଼ିକୁ ସାହାଯ୍ୟ କରେ।</string>
+    <string name="services_pp_explanation">ଏହି ସେବାଗୁଡ଼ିକ ଆପଣଙ୍କ ପାଇଁ ଆପଣଙ୍କ ଡିଭାଇସର କ୍ଷମତା ବୃଦ୍ଧି କରିବା ପାଇଁ କାମ କରନ୍ତି। ତଥ୍ୟ %1$s ର ଗୋପନୀୟତା ନୀତି ଅନୁସାରେ ବ୍ୟବହାର କରାଯିବ।</string>
+    <string name="setup_locale">ଭାଷା</string>
+    <string name="setup_services">AstralOS ବୈଶିଷ୍ଟ୍ୟ</string>
+    <string name="update_recovery_description">ପ୍ରତ୍ୟେକ ଅପଡେଟ ପରେ ପ୍ରଥମ ବୁଟ୍‌ରେ AstralOS Recovery ଅପଡେଟ୍ କରେ।</string>
+    <string name="update_recovery_setting">ଅପରେଟିଂ ସିଷ୍ଟମ ସହିତ AstralOS Recovery ଅପଡେଟ୍ କରନ୍ତୁ</string>
+    <string name="update_recovery_title">AstralOS Recovery ଅପଡେଟ୍ କରନ୍ତୁ</string>
+    <string name="update_recovery_warning">ଆପଣ ସେଟଅପ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ମାତ୍ରେ Recovery ଅପଡେଟ୍ ହୋଇଯିବ। ଏହାକୁ ଅପରିବର୍ତ୍ତିତ ରଖିବାକୁ ଚାହୁଁଥିଲେ, ଏହି ବୈଶିଷ୍ଟ୍ୟ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ।</string>
 </resources>

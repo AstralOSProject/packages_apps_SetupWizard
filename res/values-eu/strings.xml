@@ -27,4 +27,31 @@
     <string name="setup_services">AstralOS ezaugarriak</string>
     <string name="services_help_improve_cm">Lagundu <xliff:g id="name" example="AstralOS">%s</xliff:g> hobetzen</string>
     <string name="services_os_nav_keys_label"><b>Erabili pantailako nabigazio teklak</b> hardware teklen ordez.</string>
+    <string name="accessibility_settings">Irisgarritasun-ezarpenak</string>
+    <string name="dark">Iluna (gomendatua)</string>
+    <string name="gesture_navigation">Keu-nabigazioa</string>
+    <string name="hide_gesture_hint">Ezkutatu keu-nabigazioaren iradokizuna</string>
+    <string name="navbar_navigation">3 botoiko nabigazioa</string>
+    <string name="navigation_summary">Aukeratu nahi duzun nabigazio-metodoa</string>
+    <string name="setup_navigation">Nabigazioa</string>
+    <string name="setup_theme">Gai</string>
+    <string name="theme_summary">Gai ilunak atzealde beltza erabiltzen du pantaila batzuetan bateriari luzeago eusteko</string>
+    <string name="intro_restore_title">Berreskuratu aplikazioak eta datuak</string>
+    <string name="intro_restore_subtitle">Seedvault-en babeskopia baduzu %s(e)tik edo beste sistema eragile batetik, hemen berreskuratu dezakezu.</string>
+    <string name="intro_restore_button">Berreskuratu babeskopiatik</string>
+    <string name="location_agps_access_summary">Kokapena piztuta dagoenean, <b>deskargatu satelite laguntzako datuak internetetik</b>, GPSaren abiaraztearen errendimendua nabarmen hobetu baitezake.</string>
+    <string name="setup_managed_profile_welcome_message">Konfiguratu lan-profilea</string>
+    <string name="setup_welcome_message">Ongi etorri: %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Pribatutasun-politika beste gailu batean irakur dezakezu %1$s bisitatuz</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Argia</string>
+    <string name="services_metrics_label">%1$s diagnosi- eta erabilera-datuak automatikoki %2$s helbideratuz. Informazio hau ezin da erabili zure identifikaziorako, eta taldeei laguntzen die bizitza autonomia, aplikazioen errendimendu eta %3$s ezaugarri berrien gaietan lan egiteko.</string>
+    <string name="services_pp_explanation">Zerbitzu hauek zure gailuaren aukerak zabaltzeko lan egiten dute. Datuak %1$s pribatutasun-politikaren arabera erabiliko dira.</string>
+    <string name="update_recovery_title">Eguneratu AstralOS Recovery</string>
+    <string name="update_recovery_description">AstralOS Recovery eguneratzen du eguneratze bakoitzaren ondorengo lehen abioan.</string>
+    <string name="update_recovery_setting">Eguneratu AstralOS Recovery sistema eragilearekin batera</string>
+    <string name="update_recovery_warning">Recovery eguneratuko da konfigurazioa amaitu bezain laster. Hori bere horretan mantendu nahi baduzu, desgaitu funtzio hau.</string>
 </resources>

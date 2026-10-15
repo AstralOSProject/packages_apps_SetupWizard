@@ -26,4 +26,32 @@
     <string name="location_access_summary"><b>Tillat programmer som har bedt om din tillatelse</b> å bruke stedsinformasjonen. Dette kan være din nåværende posisjon og siste steder.</string>
     <string name="setup_services">AstralOS-funksjoner</string>
     <string name="services_os_nav_keys_label"><b>Bruk navigasjonstaster på skjermen </b> istedenfor hardware knapper.</string>
+    <string name="accessibility_settings">Tilgjengelighetsinnstillinger</string>
+    <string name="dark">Mørk (anbefalt)</string>
+    <string name="gesture_navigation">Bevegelsesnavigasjon</string>
+    <string name="hide_gesture_hint">Skjul navigasjonshint for bevegelser</string>
+    <string name="navbar_navigation">3-knappers navigasjon</string>
+    <string name="navigation_summary">Velg foretrukket navigasjonsmetode</string>
+    <string name="setup_navigation">Navigasjon</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">Mørkt tema bruker en svart bakgrunn for å hjelpe til med å spare batteri lenger på noen skjermer</string>
+    <string name="intro_restore_title">Gjenopprett apper og data</string>
+    <string name="intro_restore_subtitle">Hvis du har en Seedvault-sikkerhetskopi fra %s eller et annet operativsystem, kan du gjenopprette den her.</string>
+    <string name="intro_restore_button">Gjenopprett fra sikkerhetskopi</string>
+    <string name="location_agps_access_summary">Når plassering er slått på, <b>last ned satellittassistansedata fra internettet</b>, noe som kan forbedre GPS-oppstartstiden betydelig.</string>
+    <string name="setup_managed_profile_welcome_message">Konfigurer arbeidsprofilen din</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Du kan lese personvernerklæringen på en annen enhet ved å besøke %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Lys</string>
+    <string name="services_help_improve_cm">Hjelp til å forbedre: %s</string>
+    <string name="services_metrics_label">%1$s ved automatisk å sende diagnostikk- og bruksdata til %2$s. Denne informasjonen kan ikke brukes til å identifisere deg, og hjelper team som jobber med ting som batterilevetid, appytelse og nye %3$s-funksjoner.</string>
+    <string name="services_pp_explanation">Disse tjenestene jobber for deg for å utvide enhetens evner. Data brukes i samsvar med %1$s personvernerklæring.</string>
+    <string name="setup_welcome_message">Velkommen til %1$s</string>
+    <string name="update_recovery_description">Oppdaterer AstralOS Recovery ved første oppstart etter hver oppdatering.</string>
+    <string name="update_recovery_setting">Oppdater AstralOS Recovery sammen med operativsystemet</string>
+    <string name="update_recovery_title">Oppdater AstralOS Recovery</string>
+    <string name="update_recovery_warning">Recovery oppdateres så snart du fullfører oppsettet. Hvis du ønsker å beholde den intakt, deaktiver denne funksjonen.</string>
 </resources>

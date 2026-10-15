@@ -22,4 +22,36 @@
     <string name="setup_location">Standuertservicer</string>
     <string name="location_access_summary"><b>Appen déi deng Berechtegung gefrot hunn</b> den Zougrëff op d\'Standuertinformatiounen erlaben. Dat ka fir den aktuelle Standuert an och fir fréier Standuerter gëllen.</string>
     <string name="services_os_nav_keys_label"><b>Schierm-Navigatiounstasten</b> amplaz Hardwaretaste benotzen.</string>
+    <string name="dark">Däischter (empfohlen)</string>
+    <string name="gesture_navigation">Gestennavigatioun</string>
+    <string name="hide_gesture_hint">Gestennavigatiounshinweis verstoppen</string>
+    <string name="navbar_navigation">3-Knoppe Navigatioun</string>
+    <string name="navigation_summary">Wiesselt déi gewënschte Navigatiounsmethod</string>
+    <string name="setup_navigation">Navigatioun</string>
+    <string name="intro_restore_subtitle">Wanns du eng Seedvault-Sécherungskopi vu %s oder engem aneren System hues, kënns du se hei zerécksetzen.</string>
+    <string name="location_agps_access_summary">Wann de Standort un ass, <b>lued Satellittendaten aus dem Internet erof</b>, wat d\'GPS-Startleeschtegkeet däitlech ka verbesseren.</string>
+    <string name="accessibility_settings">Zougänglechkeetsastellungen</string>
+    <string name="done">Fäerdeg</string>
+    <string name="intro_restore_button">Vun enger Sécherungskopi zrécksetzen</string>
+    <string name="intro_restore_title">Apps a Donnéeën zrécksetzen</string>
+    <string name="light">Hell</string>
+    <string name="services_find_privacy_policy">Dir kënnt den Dateschutzpolitik op engem aneren Apparat liesen andeems Dir %1$s besicht</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="services_help_improve_cm">Hëllef ze verbesseren: %s</string>
+    <string name="services_metrics_label">%1$s andeems Dir automatesch Diagnostik- a Gebrauchsdonnéeën un %2$s schéckt. Dës Informatioun kann net benotzt ginn fir Iech ze identifizéieren a spillt Teams déi u Saachen schaffen wéi Batterieliewen, Appleeschtung a nei %3$s Funktiounen.</string>
+    <string name="services_pp_explanation">Déi Servicer schaffen fir Iech d\'Méiglechkeeten vun Ärem Apparat ze erweideren. Donnéeën ginn benotzt am Aklang mat dem Dateschutzpolitik vun %1$s.</string>
+    <string name="setup_locale">Sprooch</string>
+    <string name="setup_managed_profile_welcome_message">Konfiguréiert Äre Aarbechtsprofil</string>
+    <string name="setup_services">AstralOS Funktiounen</string>
+    <string name="setup_theme">Theme</string>
+    <string name="setup_welcome_message">Wëllkomm bei %1$s</string>
+    <string name="sim_locale_changed">%1$s SIM erkannt</string>
+    <string name="theme_summary">Däischter Theme benotzt e schwaarzen Hannergrond fir op e puer Écranen d\'Batterie méi laang ze halen</string>
+    <string name="update_recovery_description">Updateet AstralOS Recovery beim éischte Start no all Update.</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="update_recovery_setting">Updateet AstralOS Recovery mam Betribssystem</string>
+    <string name="update_recovery_title">AstralOS Recovery updaten</string>
+    <string name="update_recovery_warning">Recovery gëtt upgedat sou wéi dir d\'Astellung fäerdeg maacht. Wann dir se intakt wëllt halen, deaktivéiert dës Funktioun.</string>
 </resources>

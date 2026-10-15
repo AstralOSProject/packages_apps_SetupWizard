@@ -22,4 +22,36 @@
     <string name="setup_location">Vietovės paslaugos</string>
     <string name="location_access_summary"><b>Leisti programoms, kurios paprašė jūsų leidimo</b> naudoti jūsų vietos informaciją. Tai gali būti jūsų dabartinė buvimo vieta ir ankstesnės vietos.</string>
     <string name="services_os_nav_keys_label"><b>Naudokite ekrane rodomus naršymo klavišus</b> vietoj aparatūrinių klavišų.</string>
+    <string name="accessibility_settings">Prieinamumo nustatymai</string>
+    <string name="dark">Tamsi (rekomenduojama)</string>
+    <string name="gesture_navigation">Judesių navigacija</string>
+    <string name="hide_gesture_hint">Slėpti gestų navigacijos užuominą</string>
+    <string name="navbar_navigation">3 mygtukų navigacija</string>
+    <string name="navigation_summary">Pasirinkite pageidaujamą navigacijos būdą</string>
+    <string name="setup_navigation">Navigacija</string>
+    <string name="setup_theme">Tema</string>
+    <string name="theme_summary">Tamsi tema naudoja juodą foną, kad kai kuriuose ekranuose ilgiau išlaikytų akumuliatorių</string>
+    <string name="intro_restore_title">Atkurti programas ir duomenis</string>
+    <string name="intro_restore_subtitle">Jei turite „Seedvault“ atsarginę kopiją iš %s ar kitos operacinės sistemos, galite ją čia atkurti.</string>
+    <string name="intro_restore_button">Atkurti iš atsarginės kopijos</string>
+    <string name="location_agps_access_summary">Kai vietos nustatymas įjungtas, <b>atsisiųskite palydovų pagalbos duomenis iš interneto</b>, o tai gali žymiai pagerinti GPS paleidimo našumą.</string>
+    <string name="setup_managed_profile_welcome_message">Nustatykite darbo profilį</string>
+    <string name="setup_welcome_message">Sveiki atvykę į %1$s</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Privatumo politiką galite perskaityti kitame įrenginyje apsilankę %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="done">Atlikta</string>
+    <string name="light">Šviesi</string>
+    <string name="services_help_improve_cm">Padėkite tobulinti: %s</string>
+    <string name="services_metrics_label">%1$s automatiškai siunčiant diagnostikos ir naudojimo duomenis į %2$s. Šios informacijos negalima naudoti jūsų tapatybei nustatyti ir ji padeda komandoms, dirbantiems prie tokių dalykų kaip akumuliatoriaus veikimo laikas, programėlių našumas ir naujos %3$s funkcijos.</string>
+    <string name="services_pp_explanation">Šios paslaugos dirba jums, kad išplėstų jūsų įrenginio galimybes. Duomenys bus naudojami laikantis %1$s privatumo politikos.</string>
+    <string name="setup_locale">Kalba</string>
+    <string name="setup_services">AstralOS funkcijos</string>
+    <string name="sim_locale_changed">Aptikta %1$s SIM kortelė</string>
+    <string name="update_recovery_description">Atnaujina AstralOS Recovery pirmo paleidimo po kiekvieno atnaujinimo metu.</string>
+    <string name="update_recovery_setting">Atnaujinti AstralOS Recovery kartu su operacine sistema</string>
+    <string name="update_recovery_title">Atnaujinti AstralOS Recovery</string>
+    <string name="update_recovery_warning">Recovery bus atnaujinta iškart po to, kai baigsite nustatymus. Jei norite ją palikti nepakeistą, išjunkite šią funkciją.</string>
 </resources>

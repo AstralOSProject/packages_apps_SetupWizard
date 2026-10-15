@@ -23,4 +23,35 @@
     <string name="setup_location">સ્થાન સેવાઓ</string>
     <string name="location_access_summary">તમારી લોકેશન માહિતી વાપરવાની <b>પરવાનગી માંગી હોય એવા ઍપ્સને છૂટ આપો</b>. આમાં તમારા હાલના લોકેશન અને ભૂતકાલીન લોકેશનોનો સમાવેશ થઈ શકે.</string>
     <string name="services_os_nav_keys_label">હાર્ડવેર કીને બદલે <b>સ્ક્રીન નૅવિગેશન કીનો ઉપયોગ કરો</b>.</string>
+    <string name="accessibility_settings">સુલભતા સેટિંગ્સ</string>
+    <string name="dark">ઘેરો (ભલામણ કરેલ)</string>
+    <string name="done">પૂર્ણ</string>
+    <string name="gesture_navigation">જેસ્ચર નેવિગેશન</string>
+    <string name="hide_gesture_hint">જેસ્ચર નેવિગેશન સૂચના છુપાવો</string>
+    <string name="navbar_navigation">3-બટન નેવિગેશન</string>
+    <string name="navigation_summary">પસંદગીની નેવિગેશન પદ્ધતિ પસંદ કરો</string>
+    <string name="setup_navigation">નેવિગેશન</string>
+    <string name="setup_theme">થીમ</string>
+    <string name="theme_summary">ઘેરી થીમ કેટલાક સ્ક્રીન પર બેટરી લાંબો સમય ટકી રહે તે માટે કાળો બેકગ્રાઉન્ડ વાપરે છે</string>
+    <string name="intro_restore_title">એપ્સ અને ડેટા પુનઃસ્થાપિત કરો</string>
+    <string name="intro_restore_subtitle">જો તમારી પાસે %s અથવા અન્ય કોઈ ઓપરેટિંગ સિસ્ટમમાંથી Seedvault બેકઅપ હોય, તો તમે અહીં તેને પુનઃસ્થાપિત કરી શકો છો.</string>
+    <string name="intro_restore_button">બેકઅપમાંથી પુનઃસ્થાપિત કરો</string>
+    <string name="location_agps_access_summary">સ્થાન ચાલુ હોય ત્યારે, <b>ઇન્ટરનેટમાંથી સેટેલાઇટ સહાયક ડેટા ડાઉનલોડ કરો</b>, જે GPS સ્ટાર્ટઅપ પરફોર્મન્સમાં નોંધપાત્ર સુધારો કરી શકે છે.</string>
+    <string name="setup_managed_profile_welcome_message">તમારો કાર્ય પ્રોફાઇલ સેટ અપ કરો</string>
+    <string name="setup_welcome_message">%1$s માં આપનું સ્વાગત છે</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">%1$s ની મુલાકાત લઈને તમે અન્ય ઉપકરણ પર ગોપનીયતા નીતિ વાંચી શકો છો</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">લાઇટ</string>
+    <string name="services_help_improve_cm">સુધારવામાં મદદ કરો: %s</string>
+    <string name="services_metrics_label">%1$s દ્વારા ડાયગ્નોસ્ટિક અને ઉપયોગ ડેટા આપમેળે %2$s ને મોકલીને. આ માહિતી તમને ઓળખવા માટે વાપરી શકાય નહીં અને તે બેટરી લાઇફ, એપ પ્રદર્શન અને નવી %3$s સુવિધાઓ જેવી બાબતો પર કામ કરતી ટીમોને મદદ કરે છે.</string>
+    <string name="services_pp_explanation">આ સેવાઓ તમારા ઉપકરણની ક્ષમતાઓ વિસ્તૃત કરવા માટે તમારા માટે કામ કરે છે. ડેટા %1$s ની ગોપનીયતા નીતિ મુજબ વાપરવામાં આવશે.</string>
+    <string name="setup_locale">ભાષા</string>
+    <string name="setup_services">AstralOS સુવિધાઓ</string>
+    <string name="update_recovery_title">AstralOS Recovery અપડેટ કરો</string>
+    <string name="update_recovery_description">દરેક અપડેટ પછી પ્રથમ બૂટ પર AstralOS Recovery અપડેટ કરે છે.</string>
+    <string name="update_recovery_setting">ઓપરેટિંગ સિસ્ટમ સાથે AstralOS Recovery અપડેટ કરો</string>
+    <string name="update_recovery_warning">તમે સેટઅપ પૂર્ણ કરો એતરતે Recovery અપડેટ થઈ જશે. જો તમે તેને અખંડ રાખવા માંગતા હો, તો આ સુવિધા અક્ષમ કરો.</string>
 </resources>

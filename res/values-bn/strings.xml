@@ -36,4 +36,21 @@
     <string name="navigation_summary">আপনার পছন্দের ন্যাভিগেশন মাধ্যম বেছে নিন</string>
     <string name="gesture_navigation">জেশচার ন্যাভিগেশন</string>
     <string name="navbar_navigation">ত্রি-বোতাম ন্যাভিগেশন</string>
+    <string name="accessibility_settings">অ্যাক্সেসিবিলিটি সেটিংস</string>
+    <string name="dark">গাঢ় (সুপারিশকৃত)</string>
+    <string name="hide_gesture_hint">জেসচার নেভিগেশনের ইঙ্গিত লুকান</string>
+    <string name="intro_restore_title">অ্যাপ ও ডেটা পুনরুদ্ধার করুন</string>
+    <string name="intro_restore_subtitle">আপনার %s থেকে Seedvault ব্যাকআপ থাকলে, অথবা অন্য যেকোনো অপারেটিং সিস্টেম থেকে থাকলে, আপনি এখান থেকে পুনরুদ্ধার করতে পারেন।</string>
+    <string name="intro_restore_button">ব্যাকআপ থেকে পুনরুদ্ধার করুন</string>
+    <string name="location_agps_access_summary">অবস্থান চালু থাকলে, <b>ইন্টারনেট থেকে স্যাটেলাইট সহায়ক ডেটা ডাউনলোড করুন</b>, যা জিপিএস স্টার্টআপের পারফরম্যান্স উল্লেখযোগ্যভাবে বাড়াতে পারে।</string>
+    <string name="setup_managed_profile_welcome_message">আপনার কর্ম প্রোফাইল সেট আপ করুন</string>
+    <string name="services_find_privacy_policy">%1$s দেখে আপনি অন্য ডিভাইসে গোপনীয়তা নীতি পড়তে পারেন</string>
+    <string name="light">হালকা</string>
+    <string name="location_access_summary"><b>যেসব অ্যাপ আপনার অনুমতি চেয়েছে তাদের</b> আপনার অবস্থানের তথ্য ব্যবহার করতে দিন। এর মধ্যে আপনার বর্তমান ও পূর্ববর্তী অবস্থান থাকতে পারে।</string>
+    <string name="services_help_improve_cm">উন্নত করতে সাহায্য করুন: %s</string>
+    <string name="services_os_nav_keys_label"><b>হার্ডওয়্যার কী-এর পরিবর্তে</b> পর্দার নেভিগেশন কী ব্যবহার করুন।</string>
+    <string name="services_pp_explanation">এই পরিষেবাগুলি আপনার ডিভাইসের সক্ষমতা বাড়ানোর জন্য আপনার পক্ষে কাজ করে। ডেটা %1$s-এর গোপনীয়তা নীতি অনুসারে ব্যবহার করা হবে।</string>
+    <string name="setup_theme">থিম</string>
+    <string name="sim_locale_changed">%1$s SIM শনাক্ত হয়েছে</string>
+    <string name="theme_summary">গাঢ় থিম কিছু স্ক্রিনে ব্যাটারি বেশি সময় ধরে রাখতে সাহায্য করার জন্য কালো ব্যাকগ্রাউন্ড ব্যবহার করে</string>
 </resources>

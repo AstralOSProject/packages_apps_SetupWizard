@@ -23,4 +23,33 @@
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="setup_navigation">Навігацыя</string>
     <string name="gesture_navigation">Навігацыя жэстамі</string>
+    <string name="accessibility_settings">Налады даступнасці</string>
+    <string name="app_name">Майстар наладкі</string>
+    <string name="dark">Цёмная (рэкамендуецца)</string>
+    <string name="done">Гатова</string>
+    <string name="hide_gesture_hint">Схаваць падказку жэставай навігацыі</string>
+    <string name="navbar_navigation">Навігацыя з 3 кнопкамі</string>
+    <string name="navigation_summary">Выберыце пажаданы спосаб навігацыі</string>
+    <string name="setup_theme">Тэма</string>
+    <string name="theme_summary">Цёмная тэма выкарыстоўвае чорны фон, каб на некаторых экранах даўжэй захоўваць зарад батарэі</string>
+    <string name="intro_restore_subtitle">Калі ў вас ёсць рэзервовая копія Seedvault з %s або іншай аперацыйнай сістэмы, вы можаце аднавіць яе тут.</string>
+    <string name="intro_restore_button">Аднавіць з рэзервовай копіі</string>
+    <string name="setup_managed_profile_welcome_message">Наладзіць прафайль працы</string>
+    <string name="date_time_summary">Ўсталюйце часовы пояс і пры неабходнасці карэктуйце дату і час.</string>
+    <string name="update_recovery_title">Абнавіць AstralOS Recovery</string>
+    <string name="update_recovery_description">Абнаўляе AstralOS Recovery пры першым запуску пасля кожнага абнаўлення.</string>
+    <string name="update_recovery_setting">Абнаўляць AstralOS Recovery разам з сістэмай</string>
+    <string name="update_recovery_warning">Recovery будзе абноўлена, як толькі вы скончыце наладку. Калі жадаеце пакінуць яе без змен, адключыце гэтую функцыю.</string>
+    <string name="setup_services">Магчымасці AstralOS</string>
+    <string name="services_pp_explanation">Гэтыя паслугі працуюць, каб пашырыць магчымасці вашага прылады. Дадзеныя будуць выкарыстоўвацца адпаведна палітыцы прыватнасці %1$s.</string>
+    <string name="services_find_privacy_policy">Палітыку прыватнасці можна прачытаць на іншай прыладзе, наведаўшы %1$s</string>
+    <string name="services_help_improve_cm">Дапамажыце палепшыць: %s</string>
+    <string name="services_metrics_label">%1$s, аўтаматычна адпраўляючы дыягнастычныя і статыстычныя дадзеныя ў %2$s. Гэтую інфармацыю нельга выкарыстаць для вашай ідэнтыфікацыі, і яна дапамагае камандам працаваць над такімі рэчамі, як час працы батарэі, прадукцыйнасць праграм і новыя функцыі %3$s.</string>
+    <string name="setup_sim_missing">SIM-карта адсутнічае</string>
+    <string name="light">Светлая</string>
+    <string name="location_access_summary"><b>Дазвольце праграмам, якія папрасілі вашага дазволу</b>, выкарыстоўваць звесткі аб месцазнаходжанні. Гэта можа ўключаць ваша бягучае і папярэднія месцазнаходжанні.</string>
+    <string name="ok">Добра</string>
+    <string name="sim_locale_changed">Выяўлена SIM-карта %1$s</string>
+    <string name="sim_missing_summary" product="tablet">У планшэце не знойдзена SIM-карта. Прачытайце інструкцыю, атрыманую з прыладай, каб даведацца, як яе ўстаўляць.</string>
+    <string name="sim_missing_summary" product="default">У тэлефоне не знойдзена SIM-карта. Прачытайце інструкцыю, атрыманую з прыладай, каб даведацца, як яе ўстаўляць.</string>
 </resources>

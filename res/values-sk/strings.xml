@@ -26,11 +26,32 @@
     <string name="intro_restore_button">Obnoviť zo záloh</string>
     <string name="setup_location">Služby polohy</string>
     <string name="location_access_summary"><b>Povoliť aplikáciám, ktoré požiadali o vaše povolenie</b>, používať informácie o vašej polohe. To môže zahŕňať vašu aktuálnu polohu a minulé polohy.</string>
-    <string name="update_recovery_title">Aktualizovať Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizovať Lineage recovery pri prvom spustení po každej aktualizácii</string>
+    <string name="update_recovery_title">Aktualizovať AstralOS recovery</string>
+    <string name="update_recovery_description">Aktualizovať AstralOS recovery pri prvom spustení po každej aktualizácii</string>
     <string name="update_recovery_warning">Oddiel recovery bude aktualizovaný ihneď potom, ako dokončíte nastavenie. Vypnite túto funkciu, ak si prajete ponechať oddiel nezmenený.</string>
-    <string name="update_recovery_setting">Aktualizovať Lineage recovery spoločne s OS</string>
+    <string name="update_recovery_setting">Aktualizovať AstralOS recovery spoločne s OS</string>
     <string name="setup_services">AstralOS funkcie</string>
     <string name="services_help_improve_cm">Pomôžte vylepšiť <xliff:g id="name" example="AstralOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Používajte navigačné tlačidlá na obrazovke</b> namiesto hardvérových tlačidiel.</string>
+    <string name="accessibility_settings">Nastavenia prístupnosti</string>
+    <string name="dark">Tmavá (odporúčaná)</string>
+    <string name="gesture_navigation">Gestová navigácia</string>
+    <string name="hide_gesture_hint">Skryť nápovedu gestovej navigácie</string>
+    <string name="navbar_navigation">3-tlačidlová navigácia</string>
+    <string name="navigation_summary">Vyberte preferovanú metódu navigácie</string>
+    <string name="setup_navigation">Navigácia</string>
+    <string name="intro_restore_subtitle">Ak máte zálohu zo služby %s z iného operačného systému, môžete ju tu obnoviť.</string>
+    <string name="location_agps_access_summary">Keď je poloha zapnutá, <b>sťahujte dáta satelitnej asistencie z internetu</b>, čo môže výrazne zlepšiť spúšťanie GPS.</string>
+    <string name="setup_managed_profile_welcome_message">Nastavenie pracovného profilu</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">Zásady ochrany osobných údajov si môžete prečítať na inom zariadení na adrese %1$s</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">Svetlá</string>
+    <string name="services_metrics_label">%1$s automatickým odoslaním diagnostických a používateľských údajov na %2$s. Tieto informácie sa nedajú použiť na vašu identifikáciu a pomáhajú tímom, ktoré pracujú na veciach, ako je výdrž batérie, výkon aplikácií a nové funkcie %3$s.</string>
+    <string name="services_pp_explanation">Tieto služby pracujú pre vás, aby rozšírili možnosti vášho zariadenia. Údaje sa budú používať v súlade s pravidlami ochrany osobných údajov %1$s.</string>
+    <string name="setup_theme">Téma</string>
+    <string name="setup_welcome_message">Vitajte: %1$s</string>
+    <string name="theme_summary">Tmavá téma používa čierne pozadie, aby na niektorých obrazovkách dlhšie vydržala batéria</string>
 </resources>

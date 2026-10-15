@@ -27,4 +27,31 @@
     <string name="setup_services">AstralOS ವೈಶಿಷ್ಟ್ಯಗಳು</string>
     <string name="services_help_improve_cm"><xliff:g id="name" example="AstralOS">%s</xliff:g> ಸುಧಾರಿಸಲು ನೆರವಾಗು</string>
     <string name="services_os_nav_keys_label">ಯಂತ್ರಾಂಶ ಕೀಲಿಗಳ ಬದಲಾಗಿ <b>ಪರದೆಯ ಮೇಲಿನ ಸಂಚಾಲನೆ ಕೀಲಿಗಳನ್ನು ಉಪಯೋಗಿಸಿ</b>.</string>
+    <string name="accessibility_settings">ಪ್ರವೇಶತಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="dark">ಗಾಢ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)</string>
+    <string name="gesture_navigation">ಜೆಸ್ಚರ್ ನ್ಯಾವಿಗೇಶನ್</string>
+    <string name="hide_gesture_hint">ಜೆಸ್ಚರ್ ನ್ಯಾವಿಗೇಶನ್ ಸೂಚನೆಯನ್ನು ಮರೆಮಾಡಿ</string>
+    <string name="navbar_navigation">3-ಬಟನ್ ನ್ಯಾವಿಗೇಶನ್</string>
+    <string name="navigation_summary">ಆದ್ಯತೆಯ ನ್ಯಾವಿಗೇಶನ್ ವಿಧಾನವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="setup_navigation">ನ್ಯಾವಿಗೇಶನ್</string>
+    <string name="setup_theme">ಥೀಮ್</string>
+    <string name="theme_summary">ಗಾಢ ಥೀಮ್ ಕೆಲವು ಪರದೆಗಳಲ್ಲಿ ಬ್ಯಾಟರಿ ಹೆಚ್ಚು ಹೊತ್ತು ಇರಲು ಸಹಾಯ ಮಾಡಲು ಕಪ್ಪು ಹಿನ್ನೆಲೆಯನ್ನು ಬಳಸುತ್ತದೆ</string>
+    <string name="intro_restore_title">ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಡೇಟಾವನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="intro_restore_subtitle">ನಿಮ್ಮ %s ಅಥವಾ ಬೇರೆ ಯಾವುದೇ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್‌ನಿಂದ Seedvault ಬ್ಯಾಕ್‌ಅಪ್ ಇದ್ದರೆ, ನೀವು ಇಲ್ಲಿ ಅದನ್ನು ಮರುಸ್ಥಾಪಿಸಬಹುದು.</string>
+    <string name="intro_restore_button">ಬ್ಯಾಕ್‌ಅಪ್‌ನಿಂದ ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="location_agps_access_summary">ಸ್ಥಳ ಆನ್ ಆದಾಗ, <b>ಇಂಟರ್‌ನೆಟ್‌ನಿಂದ ಉಪಗ್ರಹ ಸಹಾಯಕ ಡೇಟಾವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</b>, ಇದು ಜಿಪಿಎಸ್ ಆರಂಭಿಕ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಸುಧಾರಿಸಬಹುದು.</string>
+    <string name="setup_managed_profile_welcome_message">ನಿಮ್ಮ ಕೆಲಸದ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="setup_welcome_message">%1$s ಗೆ ಸ್ವಾಗತ</string>
+    <string name="update_recovery_full_description">%1$s
+%2$s</string>
+    <string name="services_find_privacy_policy">%1$s ಭೇಟಿ ನೀಡುವ ಮೂಲಕ ನೀವು ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಗೌಪ್ಯತಾ ನೀತಿಯನ್ನು ಓದಬಹುದು</string>
+    <string name="services_full_description">%1$s
+%2$s</string>
+    <string name="light">ಬೆಳಕು</string>
+    <string name="services_metrics_label">%1$s ಸ್ವಯಂಚಾಲಿತವಾಗಿ ದೋಷನಿವಾರಣಾ ಮತ್ತು ಬಳಕೆಯ ಡೇಟಾವನ್ನು %2$s ಗೆ ಕಳುಹಿಸುವ ಮೂಲಕ. ಈ ಮಾಹಿತಿಯನ್ನು ನಿಮ್ಮನ್ನು ಗುರುತಿಸಲು ಬಳಸಲಾಗುವುದಿಲ್ಲ ಮತ್ತು ಇದು ಬ್ಯಾಟರಿ ಅವಧಿ, ಆ್ಯಪ್ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಹೊಸ %3$s ವೈಶಿಷ್ಟ್ಯಗಳಂತಹ ವಿಷಯಗಳ ಮೇಲೆ ಕೆಲಸ ಮಾಡುವ ತಂಡಗಳಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.</string>
+    <string name="services_pp_explanation">ಈ ಸೇವೆಗಳು ನಿಮ್ಮ ಸಾಧನದ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ವಿಸ್ತರಿಸಲು ನಿಮಗಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ. ಡೇಟಾವನ್ನು %1$s ಗೌಪ್ಯತಾ ನೀತಿಯ ಪ್ರಕಾರ ಬಳಸಲಾಗುತ್ತದೆ.</string>
+    <string name="update_recovery_description">ಪ್ರತಿ ನವೀಕರಣದ ನಂತರ ಮೊದಲ ಬೂಟ್‌ನಲ್ಲಿ AstralOS Recovery ಅನ್ನು ನವೀಕರಿಸುತ್ತದೆ.</string>
+    <string name="update_recovery_setting">ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್‌ನೊಂದಿಗೆ AstralOS Recovery ಅನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="update_recovery_title">AstralOS Recovery ಅನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="update_recovery_warning">ನೀವು ಸೆಟಪ್ ಪೂರ್ಣಗೊಳಿಸಿದ ಕೂಡಲೇ Recovery ನವೀಕರಿಸಲ್ಪಡುತ್ತದೆ. ಅದನ್ನು ಹಾಗೇ ಇರಲು ಬಿಡಲು ನೀವು ಬಯಸಿದರೆ, ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ.</string>
 </resources>

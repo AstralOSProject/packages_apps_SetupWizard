@@ -26,10 +26,10 @@
     <string name="intro_restore_title">Відновіть застосунки й дані</string>
     <string name="setup_location">Служби позиціювання</string>
     <string name="location_access_summary"><b>Дозволити програмам, котрі запитали вашого дозволу</b> використовувати інформацію, щодо вашого місцезнаходження. Це може бути як ваше поточне, так і минулі розташування.</string>
-    <string name="update_recovery_title">Оновлювати режим відновлення Lineage</string>
-    <string name="update_recovery_description">Оновлює режим відновлення Lineage за першого запуску після кожного оновлення.</string>
+    <string name="update_recovery_title">Оновлювати режим відновлення AstralOS</string>
+    <string name="update_recovery_description">Оновлює режим відновлення AstralOS за першого запуску після кожного оновлення.</string>
     <string name="update_recovery_warning">Режим відновлення оновиться, щойно ви завершите налаштування. Якщо ви хочете зберегти наявний режим оновлення, вимкніть цю функцію.</string>
-    <string name="update_recovery_setting">Оновлювати режим відновлення Lineage разом з ОС</string>
+    <string name="update_recovery_setting">Оновлювати режим відновлення AstralOS разом з ОС</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_services">Функції AstralOS</string>
     <string name="services_pp_explanation">Ці служби працюють задля розширення підтримки вашого пристрою. Використання даних обмежується політикою приватності <xliff:g id="name" example="AstralOS">%1$s</xliff:g>.</string>
@@ -42,4 +42,15 @@
     <string name="gesture_navigation">Навігація жестами</string>
     <string name="navbar_navigation">Навігація трьома кнопками</string>
     <string name="hide_gesture_hint">Ховати панель навігації жестами</string>
+    <string name="accessibility_settings">Налаштування доступності</string>
+    <string name="dark">Темна (рекомендовано)</string>
+    <string name="intro_restore_button">Відновити з резервної копії</string>
+    <string name="intro_restore_subtitle">Якщо у вас є резервна копія Seedvault з %s або іншої операційної системи, ви можете відновити її тут.</string>
+    <string name="location_agps_access_summary">Коли геолокацію увімкнено, <b>завантажуйте супутникові допоміжні дані з Інтернету</b>, що може суттєво покращити запуск GPS.</string>
+    <string name="setup_managed_profile_welcome_message">Налаштуйте робочий профіль</string>
+    <string name="services_find_privacy_policy">Ви можете прочитати політику конфіденційності на іншому пристрої, відвідавши %1$s</string>
+    <string name="services_help_improve_cm">Допоможіть покращити: %s</string>
+    <string name="light">Світла</string>
+    <string name="setup_theme">Тема</string>
+    <string name="theme_summary">Темна тема використовує чорний фон, щоб на деяких екранах довше зберегти заряд акумулятора</string>
 </resources>
